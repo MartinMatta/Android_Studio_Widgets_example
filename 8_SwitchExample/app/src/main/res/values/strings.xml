@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SwitchExample</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="switch_1_text">switch 1</string>
+    <string name="switch_2_text">switch 2</string>
+    <string name="submit">Submit</string>
+</resources>

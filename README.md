@@ -10,3 +10,5 @@
 8. [Switch](https://github.com/MartinMatta/Android_Studio_Widgets_example/tree/master/8_SwitchExample)
 9. [ToggleButton](https://github.com/MartinMatta/Android_Studio_Widgets_example/tree/master/9_ToggleButtonExample)
 10. [ImageButton](https://github.com/MartinMatta/Android_Studio_Widgets_example/tree/master/10_ImageButtonExample)
+11. [RatingBar](https://github.com/MartinMatta/Android_Studio_Widgets_example/tree/master/11_RatingBarExample)
+12. [SeekBar](https://github.com/MartinMatta/Android_Studio_Widgets_example/tree/master/12_SeekBarExample)

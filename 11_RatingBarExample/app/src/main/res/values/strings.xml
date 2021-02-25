@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RatingBarExample</string>
+    <string name="submit">submit</string>
+</resources>
